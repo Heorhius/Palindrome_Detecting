@@ -9,13 +9,13 @@
     *# Factual time: *
 ---    
 * # STAGE 2. Project structure
-    [ ] Creating a simple Spring project with directories
-    [ ] Creating dbo
-    [ ] Creating dto
-    [ ] Creating repositories
-    [ ] Creating services
-    [ ] Creating mappers
-    [ ] Creating controllers
+    - [ ] Creating a simple Spring project with directories
+    - [ ] Creating dbo
+    - [ ] Creating dto
+    - [ ] Creating repositories
+    - [ ] Creating services
+    - [ ] Creating mappers
+    - [ ] Creating controllers
     *# Estimated time: *
     *# Factual time: *
 ---
