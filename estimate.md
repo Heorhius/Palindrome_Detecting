@@ -1,6 +1,5 @@
-# ⏲️ Estimated time of project development
+# ⏲️ Project Development
 ---
-  
 * ## STAGE 1. Database
     - [ ] Creating DB schema
     - [ ] Writing init query
