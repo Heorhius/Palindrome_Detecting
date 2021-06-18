@@ -5,8 +5,8 @@
     - [ ] Creating DB schema
     - [ ] Writing init query
     - [ ] Creating DB schema image
-    _Estimated time:_
-    _Factual time:_
+    > _Estimated time:_
+    > _Factual time:_
 ---    
 * # STAGE 2. Project structure
     - [ ] Creating a simple Spring project with directories
