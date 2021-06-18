@@ -8,7 +8,7 @@
     *# Estimated time: *
     *# Factual time: *
 ---    
-* #STAGE 2. Project structure
+* # STAGE 2. Project structure
     [ ] Creating a simple Spring project with directories
     [ ] Creating dbo
     [ ] Creating dto
@@ -19,19 +19,19 @@
     *# Estimated time: *
     *# Factual time: *
 ---
-* STAGE 3. Spring Security
+* # STAGE 3. Spring Security
     [ ] Adding Spring Security into the project
     [ ] Adding and setting Redis
     [ ] Setting security
 ---
-* STAGE 4. Mail sending
+* # STAGE 4. Mail sending
     [ ] Creating mail sending
 ---
-* STAGE 5. Tests
+* # STAGE 5. Tests
     [ ] Writing unit tests
     [ ] Writing integration tests
 ---
-* STAGE 6. Docker
+* # STAGE 6. Docker
     [ ] Setting Docker
 
 
