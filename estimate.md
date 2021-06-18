@@ -5,7 +5,7 @@
     - [ ] Creating DB schema
     - [ ] Writing init query
     - [ ] Creating DB schema image
-    > *Estimated time:*
+    > *Estimated time:*  
     > _Factual time:_
 ---    
 * ## STAGE 2. Project structure
