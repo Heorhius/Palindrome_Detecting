@@ -1,4 +1,4 @@
-# Estimated time of project development
+# ⏲️ Estimated time of project development
 ---
   
 * ## STAGE 1. Database
@@ -6,8 +6,7 @@
     - [ ] Writing init query
     - [ ] Creating DB schema image
     > *Estimated time:*  
-    > _Factual time:_
-     
+    > _Factual time_   
 * ## STAGE 2. Project structure
     - [ ] Creating a simple Spring project with directories
     - [ ] Creating dbo
