@@ -7,7 +7,7 @@
     - [ ] Creating DB schema image
     > *Estimated time:*  
     > _Factual time:_
----    
+     
 * ## STAGE 2. Project structure
     - [ ] Creating a simple Spring project with directories
     - [ ] Creating dbo
@@ -18,12 +18,12 @@
     - [ ] Creating controllers
     *# Estimated time: *
     *# Factual time: *
----
+  
 * ## STAGE 3. Spring Security
     [ ] Adding Spring Security into the project
     [ ] Adding and setting Redis
     [ ] Setting security
----
+  
 * ## STAGE 4. Mail sending
     [ ] Creating mail sending
 ---
